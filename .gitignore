@@ -1,0 +1,2 @@
+# Ignore the massive raw data file to prevent GitHub push errors
+AviationData.csv
